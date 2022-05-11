@@ -10,7 +10,7 @@
   
 
 ## ✨ Information ✨ ##
-*Hi, I am a high school student who wants to be a game designer*
+경기게임마이스터고등학교 3학년에 재학중이며, 게임 시스템 디자이너를 지망하는 남상현입니다!
 
 ## 🛠️ Using Tools 🛠️ ##
 
