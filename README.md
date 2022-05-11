@@ -7,6 +7,9 @@
 ### <div align=center> __*Hi, I am a high school student who wants to be a game*__
 
 ---
+### Contact Me
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" href="facebook.com/FinOscarn" /></a> 
+  
 #### Using Tools
 
 <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=Microsoft PowerPoint&logoColor=white"/></a> 
