@@ -4,22 +4,27 @@
 
 ### <div align=center> __*Have a nice day!*__ </div>
   
-### <div align=center> __*Hi, I am a high school student who wants to be a game*__
 
 ---
+<br>
   
-#### Using Tools
 
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=Microsoft PowerPoint&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft Excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=Microsoft Word&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/>
-- 🔭 I’m currently working on Gyeonggi game meister highschool
+## ✨ Information ✨ ##
+*Hi, I am a high school student who wants to be a game designer*
+
+## 🛠️ Using Tools 🛠️ ##
+
+><img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=Microsoft PowerPoint&logoColor=white"/></a> 
+><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft Excel&logoColor=white"/>
+><img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=Microsoft Word&logoColor=white"/>
+><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/>
+
 
 <br>
 
-- 🌱 I’m currently learning  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat&logo=Adobe XD&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
+## 📖Learning 📖  ##
+><img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat&logo=Adobe XD&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
 
 <br>
 
