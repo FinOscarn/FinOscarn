@@ -7,8 +7,6 @@
 ### <div align=center> __*Hi, I am a high school student who wants to be a game*__
 
 ---
-### Contact Me
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white" href="facebook.com/FinOscarn" /></a> 
   
 #### Using Tools
 
@@ -18,13 +16,14 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/>
 - 🔭 I’m currently working on Gyeonggi game meister highschool
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<br>
+
+- 🌱 I’m currently learning  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat&logo=Adobe XD&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
+
+<br>
+
+- 📫 How to reach me: oscarn0604@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FinOscarn&show_icons=true&theme=radical)
 
