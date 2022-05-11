@@ -27,3 +27,7 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FinOscarn&show_icons=true&theme=cobalt)
 
+
+## 🌟 Portfolio 🌟
+
+><a href="https://github.com/FinOscarn/NamSangHyoun/blob/main/BeastFriendsM.pdf"><img src='./Images/BeastFriendsM.png' width=20% height=20% /></a> <a href="https://github.com/FinOscarn/NamSangHyoun/blob/main/%EB%A1%A4DB.xlsx"><img src='./Images/LolDB.png' width=20% height=20% /></a>
