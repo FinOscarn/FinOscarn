@@ -7,7 +7,7 @@
 ### <div align=center> __*Hi, I am a high school student who wants to be a game*__
 
 ---
-#### Tools
+#### Using Tools
 
 <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=Microsoft PowerPoint&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft Excel&logoColor=white"/>
