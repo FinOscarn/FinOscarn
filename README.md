@@ -2,7 +2,7 @@
   <img src='https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SangHyoun%20Nam&fontSize=70' width=100%></img></p>
 
 
-### <div align=center> __*Have a nice day!*__ </div>
+### <div align=center> __*Welcome to my GitHub!*__ </div>
   
 
 ---
