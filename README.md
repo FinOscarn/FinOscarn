@@ -1,5 +1,5 @@
 <p align="center" style="color:gray">
-  <img src='https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20my%20GitHub Profile!&fontSize=70' width=100%></img></p>
+  <img src='https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20my%20GitHub Profile!&fontSize=60' width=100%></img></p>
 
 
 ### <div align=center> __*Have a nice day*__ </div>
